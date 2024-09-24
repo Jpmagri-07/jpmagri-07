@@ -30,7 +30,7 @@ Estou sempre aberto a novas oportunidades de aprendizado e colaboração! Sinta-
 
 Você pode me encontrar nas redes sociais:
 - [LinkedIn](#) 💼
-- [GitHub](#) 🐱‍💻
+- [GitHub](https://github.com/Jpmagri-07/jpmagri-07/blob/main/README.md) 🐱‍💻
 - [Instagram](#) 🐦 (se você tiver)
 
 ## Por fim
