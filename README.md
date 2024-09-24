@@ -15,6 +15,7 @@ Olá! 👋 Meu nome é João Pedro, tenho 17 anos e estou prestes a concluir o 3
 ## Projetos
 ### Site da Escolar (https://jpmagri-07.github.io/site-escolar/)
 Desenvolvi um site para a escola onde estudo, com o objetivo de melhorar a comunicação e o desenvolvimento escolar. O site foi criado para aproximar os pais do ambiente educacional dos filhos, garantindo que eles fiquem informados sobre as novidades e atividades da escola. Essa plataforma facilita a interação entre a comunidade escolar e fortalece o envolvimento dos pais na educação dos alunos. 🚀
+### Webpage Para Sorveteria (https://jpmagri-07.github.io/site-para-sorveteria/)
 
 ## Objetivos
 - Desenvolver sites e páginas da web com qualidade e eficiência. 🌍
