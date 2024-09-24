@@ -31,7 +31,7 @@ Estou sempre aberto a novas oportunidades de aprendizado e colaboração! Sinta-
 Você pode me encontrar nas redes sociais:
 - [LinkedIn](#) 💼
 - [GitHub](https://github.com/Jpmagri-07/jpmagri-07/blob/main/README.md) 🐱‍💻
-- [Instagram](#) 🐦 (se você tiver)
+- [Instagram](#) 🐦
 
 ## Por fim
 Estou sempre aberto a novas oportunidades de aprendizado e colaboração! Sinta-se à vontade para explorar minhas redes sociais e enviar seus futuros projetos para eu desenvolver. Adoraria contribuir e crescer juntos! 🙏
