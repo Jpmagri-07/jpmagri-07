@@ -12,6 +12,12 @@ Olá! 👋 Meu nome é João Pedro, tenho 17 anos e estou prestes a concluir o 3
 ## 📈 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jpmagri-07&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
 
+Aqui estão algumas das tecnologias e linguagens que eu uso regularmente:
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 ## Projetos
 ### Site da Escolar (https://jpmagri-07.github.io/site-escolar/)
 Desenvolvi um site para a escola onde estudo, com o objetivo de melhorar a comunicação e o desenvolvimento escolar. O site foi criado para aproximar os pais do ambiente educacional dos filhos, garantindo que eles fiquem informados sobre as novidades e atividades da escola. Essa plataforma facilita a interação entre a comunidade escolar e fortalece o envolvimento dos pais na educação dos alunos. 🚀
