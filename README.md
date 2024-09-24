@@ -10,7 +10,8 @@ Olá! 👋 Meu nome é João Pedro, tenho 17 anos e estou prestes a concluir o 3
   - **JavaScript**: Conhecimento básico, com interesse em aprofundar. 📜
 
 ## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jpmagri-07&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jpmagri-07_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
 
 Aqui estão algumas das tecnologias e linguagens que eu uso regularmente:
 
