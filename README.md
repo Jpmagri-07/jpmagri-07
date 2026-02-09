@@ -16,7 +16,8 @@ Sou um estudante dedicado à área de Tecnologia da Informação, com foco em **
 ---
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jpmagri-07&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpmagri-07&show_icons=true&theme=radical)
+
 
 ---
 ## 💻 Tecnologias, Ferramentas e Linguagens
