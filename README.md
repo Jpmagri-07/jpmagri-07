@@ -1,44 +1,69 @@
-# Minha Biografia
+# 👋 Olá, eu sou João Pedro Magri Martins
 
-## Sobre Mim
-Olá! 👋 Meu nome é João Pedro, tenho 17 anos e estou prestes a concluir o 3º colegial. Sou apaixonado por tecnologia e desenvolvimento web, estou sempre buscando aprender e evoluir. 💻✨
+🎓 Estudante de Sistemas de Informação | 💻 Desenvolvedor em formação | 🚀 Apaixonado por Tecnologia  
 
-## Habilidades
-- **Desenvolvedor Front-end Júnior**
-  - **HTML**: Criação de estruturas de páginas web. 🏗️
-  - **CSS**: Estilização de layouts e responsividade. 🎨
-  - **JavaScript**: Conhecimento básico, com interesse em aprofundar. 📜
+Sou um estudante dedicado à área de Tecnologia da Informação, com foco em **programação, desenvolvimento de software e análise de dados**. Tenho experiência inicial com linguagens de programação, lógica computacional e projetos acadêmicos, sempre buscando evoluir minhas habilidades e aprender novas tecnologias.
 
+---
+
+## 🧠 Sobre mim
+- 📚 Bacharelado em Sistemas de Informação (em andamento)  
+- 🏅 Categoria Ouro (Destaque escolar – 2023 e 2024)  
+- 🧩 Autodidata e curioso por novas tecnologias  
+- 🤝 Boa comunicação e trabalho em equipe  
+- 🌱 Sempre em busca de aprendizado contínuo  
+
+---
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jpmagri-07_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jpmagri-07&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
+
+---
+## 💻 Tecnologias, Ferramentas e Linguagens
 
 Aqui estão algumas das tecnologias e linguagens que eu uso regularmente:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-## Projetos
-### Site da Escolar (https://jpmagri-07.github.io/site-escolar/)
-Desenvolvi um site para a escola onde estudo, com o objetivo de melhorar a comunicação e o desenvolvimento escolar. O site foi criado para aproximar os pais do ambiente educacional dos filhos, garantindo que eles fiquem informados sobre as novidades e atividades da escola. Essa plataforma facilita a interação entre a comunidade escolar e fortalece o envolvimento dos pais na educação dos alunos. 🚀
-### Webpage Para Sorveteria (https://jpmagri-07.github.io/site-para-sorveteria/)
-Criei esta landing page para uma sorveteria, facilitando os pedidos. Agora, os clientes podem fazer tudo pelo site: realizar pedidos, acompanhar o status, verificar formas de pagamento e escolher entre retirada na loja ou entrega em casa, sem precisar ligar ou usar o WhatsApp.
-## Objetivos
-- Desenvolver sites e páginas da web com qualidade e eficiência. 🌍
-- Aprender mais sobre JavaScript e outras tecnologias front-end. 📚
-- Ingressar em uma empresa para ganhar experiência, prática e contribuir em projetos reais. 🏢
 
-## Educação
-- **Ensino Médio**: E.E. José Zanovelli, conclusão em 2024. Durante meu tempo na escola, desenvolvi habilidades valiosas em diversas disciplinas, além de me envolver em projetos que promovem a colaboração e o aprendizado ativo. 🎓
+- Conceitos:  
+  - Lógica de Programação  
+  - Estruturas de Dados (árvores, listas, etc.)  
+  - Análise de Dados  
+  - Desenvolvimento Web  
 
-## Contato
-Estou sempre aberto a novas oportunidades de aprendizado e colaboração! Sinta-se à vontade para explorar minhas redes sociais e enviar seus futuros projetos para eu desenvolver. Adoraria contribuir e crescer juntos!
+- Ferramentas:  
+  - Visual Studio  
+  - Visual Studio Code  
+  - Git & GitHub  
 
-Você pode me encontrar nas redes sociais:
-- [LinkedIn](#) 💼
-- [GitHub](https://github.com/Jpmagri-07/jpmagri-07/blob/main/README.md) 🐱‍💻
-- [Instagram](#) 🐦
+---
 
-## Por fim
-Estou sempre aberto a novas oportunidades de aprendizado e colaboração! Sinta-se à vontade para explorar minhas redes sociais e enviar seus futuros projetos para eu desenvolver. Adoraria contribuir e crescer juntos! 🙏
+## 📂 Projetos
+Aqui você encontrará projetos acadêmicos e pessoais voltados para:
+
+- Desenvolvimento de software  
+- Análise e visualização de dados  
+- Estudos em programação  
+- Aplicações web  
+
+*(Em constante atualização)*
+
+---
+
+## 🎯 Objetivo Profissional
+Crescer no ramo de Tecnologia da Informação, com foco em programação e desenvolvimento de sistemas, adquirindo experiência prática e contribuindo para projetos que gerem impacto positivo.
+
+---
+
+## 📫 Contato
+- 📧 Email: **jpmmagri@email.com**  
+- 📱 Telefone/WhatsApp: **(17) 99729-5830**
+
+---
+
+⭐ Se gostou de algum projeto, fique à vontade para dar uma estrela ou entrar em contato!
