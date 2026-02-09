@@ -31,8 +31,7 @@ Aqui estão algumas das tecnologias e linguagens que eu uso regularmente:
 
 
 - Conceitos:  
-  - Lógica de Programação  
-  - Estruturas de Dados (árvores, listas, etc.)  
+  - Lógica de Programação   
   - Análise de Dados  
   - Desenvolvimento Web  
 
