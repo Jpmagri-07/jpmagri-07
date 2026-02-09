@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou João Pedro Magri Martins
+# 🧑🏽‍💻 Olá, eu sou João Pedro Magri
 
 🎓 Estudante de Sistemas de Informação | 💻 Desenvolvedor em formação | 🚀 Apaixonado por Tecnologia  
 
@@ -14,10 +14,11 @@ Sou um estudante dedicado à área de Tecnologia da Informação, com foco em **
 - 🌱 Sempre em busca de aprendizado contínuo  
 
 ---
+
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jpmagri-07&show_icons=true&theme=radical)
 
-
 ---
+
 ## 💻 Tecnologias, Ferramentas e Linguagens
 
 Aqui estão algumas das tecnologias e linguagens que eu uso regularmente:
@@ -35,10 +36,35 @@ Aqui estão algumas das tecnologias e linguagens que eu uso regularmente:
   - Análise de Dados  
   - Desenvolvimento Web  
 
-- Ferramentas:  
-  - Visual Studio  
+- Ferramentas:   
   - Visual Studio Code  
-  - Git & GitHub  
+  - GitHub
+  - Positron
+
+---
+
+## 🎓 Formação Acadêmica
+
+🏫 **Ensino Médio – EE José Zanovelli**  
+📅 Conclusão: 2024  
+
+🎓 **Bacharelado em Sistemas de Informação – UTFPR**  
+📅 Cursando  
+
+---
+## 💼 Experiência
+
+🔬 **Iniciação Científica (IC) – Desenvolvimento de Software em R**  
+📅 Atual
+
+Atualmente participo de um projeto de Iniciação Científica voltado ao **desenvolvimento de um pacote na linguagem R para modelagem e cálculo de fatores de emissão industrial**, com foco em análise de dados ambientais, automação de cálculos e geração de resultados que auxiliam estudos científicos e tomada de decisão.
+
+Principais atividades:
+- Desenvolvimento e organização de funções em R  
+- Tratamento e análise de bases de dados  
+- Criação de scripts para cálculos automatizados  
+- Documentação do pacote  
+- Apoio à pesquisa científica  
 
 ---
 
@@ -61,8 +87,8 @@ Crescer no ramo de Tecnologia da Informação, com foco em programação e desen
 
 ## 📫 Contato
 - 📧 Email: **jpmmagri@email.com**  
-- 📱 Telefone/WhatsApp: **(17) 99729-5830**
+- 👥 Instagram: **Jpmagri_**
 
 ---
 
-⭐ Se gostou de algum projeto, fique à vontade para dar uma estrela ou entrar em contato!
+⭐ Se gostou de algum projeto, fique à vontade para entrar em contato!
