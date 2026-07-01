@@ -70,7 +70,7 @@ Principais atividades:
 
 ## 📌 Projetos em destaque
 
-🌐 **[Projeto de Desenvolvimento Web]([(https://jpmagri-07.github.io/Projeto_Plausible_Analytics/)])**  
+🌐 **[Projeto de Desenvolvimento Web]((https://jpmagri-07.github.io/Projeto_Plausible_Analytics/))**  
 Aplicação web desenvolvida com foco em criação de interfaces, organização de código e implementação de funcionalidades dinâmicas.
 `HTML · CSS · JavaScript · Desenvolvimento Web`
 
