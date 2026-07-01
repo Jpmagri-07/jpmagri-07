@@ -15,6 +15,8 @@ Sou um estudante dedicado à área de Tecnologia da Informação, com foco em **
 
 ---
 
+## 📈 contribuições do GitHub
+
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jpmagri-07&show_icons=true&theme=radical)
 
 ---
@@ -70,25 +72,27 @@ Principais atividades:
 
 ## 📌 Projetos em destaque
 
-🌐 **[Projeto de Desenvolvimento Web](https://jpmagri-07.github.io/Projeto_Plausible_Analytics/)**  
-Aplicação web desenvolvida com foco em criação de interfaces, estruturação de páginas e implementação de funcionalidades utilizando tecnologias web.  
-`HTML · CSS · JavaScript · GitHub Pages`
+👤 **[Site Pessoal](https://jpmagri-07.github.io/meu-site/)**  
+Portfólio pessoal desenvolvido para apresentar minha trajetória, habilidades, projetos e conhecimentos na área de tecnologia. Caso queira conhecer melhor meu trabalho e minha evolução profissional, acesse meu site.
+`HTML · CSS · JavaScript`
 
-🎓 **[Site/App de Educação Básica](COLOQUE_O_LINK_AQUI)**  
-Projeto voltado para área educacional, com desenvolvimento de uma solução digital para apoio ao aprendizado e organização de conteúdos.
+⚙️ **[Software PEGA](https://github.com/atmoschem/pega)**  
+Projeto de software em desenvolvimento aplicando conceitos de programação com linguagem R, lógica e desenvolvimento de sistemas. O objetivo do software é facilitar o calculo, emitindo no final apenas com a entrada de dados um relatório completo sobre emissões de poluentes por industrias.
+`C# · Programação Orientada a Objetos · Desenvolvimento de Software`
+
+🎓 **[Site/App de Educação Básica](https://jpmagri-07.github.io/site-educa/)**  
+Projeto voltado para a área educacional, com o desenvolvimento de uma solução digital para auxiliar o processo de aprendizagem e organização de conteúdos. O site foi criado com foco na educação básica, buscando oferecer uma experiência mais acessível para pessoas com deficiências visuais, auditivas e TDAH. Desenvolvido como um projeto escolar, priorizando acessibilidade, inclusão e facilidade de uso.
 `HTML · CSS · JavaScript · UX/UI`
 
-👤 **[Site Pessoal](COLOQUE_O_LINK_AQUI)**  
-Portfólio pessoal desenvolvido para apresentar minha trajetória, habilidades, projetos e conhecimentos na área de tecnologia.
+🌐 **[Projeto de Desenvolvimento Web](https://jpmagri-07.github.io/Projeto_Plausible_Analytics/)**  
+Aplicação web desenvolvida com foco em criação de interfaces, estruturação de páginas e implementação de funcionalidades utilizando tecnologias web. O site foi desenvolvido em grupo para trabalho da faculdade UTFPR.  
+`HTML · CSS · JavaScript · GitHub Pages`
+
+
+🏫 **[Projeto de Site Escolar](https://jpmagri-07.github.io/site-escolar/index.html)**  
+Desenvolvi este site em 2024 para ambiente escolar, aplicando conceitos de estruturação de páginas, responsividade e experiência do usuário. O intuito era melhorar o meu conhecimento na programação.
 `HTML · CSS · JavaScript`
 
-🏫 **[Projeto de Site Escolar](COLOQUE_O_LINK_AQUI)**  
-Desenvolvimento de um site para ambiente escolar, aplicando conceitos de estruturação de páginas, responsividade e experiência do usuário.
-`HTML · CSS · JavaScript`
-
-⚙️ **[Software PEGA](COLOQUE_O_LINK_AQUI)**  
-Projeto de software desenvolvido aplicando conceitos de programação, lógica e desenvolvimento de sistemas.
-`C# · Programação Orientada a Objetos · Desenvolvimento de Software`
 
 ---
 
@@ -99,7 +103,8 @@ Crescer no ramo de Tecnologia da Informação, com foco em programação e desen
 
 ## 📫 Contato
 - 📧 Email: **jpmmagri@email.com**  
-- 👥 Instagram: **Jpmagri_**
+- 👥 Instagram: **[Jpmagri_](https://www.instagram.com/jpmagri_/)**  
+- 💼 LinkedIn: **[João Pedro Magri Martins](https://www.linkedin.com/in/jo%C3%A3o-pedro-magri-martins-303ba3326/)**
 
 ---
 
