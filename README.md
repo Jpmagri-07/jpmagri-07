@@ -68,15 +68,27 @@ Principais atividades:
 
 ---
 
-## 📂 Projetos
-Aqui você encontrará projetos acadêmicos e pessoais voltados para:
+## 📌 Projetos em destaque
 
-- Desenvolvimento de software  
-- Análise e visualização de dados  
-- Estudos em programação  
-- Aplicações web  
+🌐 **[Projeto de Desenvolvimento Web](COLOQUE_O_LINK_AQUI)**  
+Aplicação web desenvolvida com foco em criação de interfaces, organização de código e implementação de funcionalidades dinâmicas.
+`HTML · CSS · JavaScript · Desenvolvimento Web`
 
-*(Em constante atualização)*
+🎓 **[Site/App de Educação Básica](COLOQUE_O_LINK_AQUI)**  
+Projeto voltado para área educacional, com desenvolvimento de uma solução digital para apoio ao aprendizado e organização de conteúdos.
+`HTML · CSS · JavaScript · UX/UI`
+
+👤 **[Site Pessoal](COLOQUE_O_LINK_AQUI)**  
+Portfólio pessoal desenvolvido para apresentar minha trajetória, habilidades, projetos e conhecimentos na área de tecnologia.
+`HTML · CSS · JavaScript`
+
+🏫 **[Projeto de Site Escolar](COLOQUE_O_LINK_AQUI)**  
+Desenvolvimento de um site para ambiente escolar, aplicando conceitos de estruturação de páginas, responsividade e experiência do usuário.
+`HTML · CSS · JavaScript`
+
+⚙️ **[Software PEGA](COLOQUE_O_LINK_AQUI)**  
+Projeto de software desenvolvido aplicando conceitos de programação, lógica e desenvolvimento de sistemas.
+`C# · Programação Orientada a Objetos · Desenvolvimento de Software`
 
 ---
 
