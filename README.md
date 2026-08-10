@@ -15,9 +15,9 @@ Sou um estudante dedicado à área de Tecnologia da Informação, com foco em **
 
 ---
 
-## 📈 contribuições do GitHub
+## 🔥 GitHub Streak
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jpmagri-07&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=jpmagri-07&theme=radical&hide_border=true)
 
 ---
 
