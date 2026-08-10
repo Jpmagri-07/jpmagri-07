@@ -4,6 +4,8 @@
 
 Sou um estudante dedicado à área de Tecnologia da Informação, com foco em **programação, desenvolvimento de software e análise de dados**. Tenho experiência inicial com linguagens de programação, lógica computacional e projetos acadêmicos, sempre buscando evoluir minhas habilidades e aprender novas tecnologias.
 
+👤 **[Clique aqui!](https://jpmagri-07.github.io/meu-site/)** 
+
 ---
 
 ## 🧠 Sobre mim
