@@ -167,7 +167,8 @@ Inicialmente desenvolvido na linguagem R, o software evoluiu para uma aplicaçã
 
 ---
 
-### 🌐 Website Institucional — Projeto O₃ MOVER
+
+### 🌐 [Website Institucional — Projeto O₃ MOVER](https://projetoozoniomover.org/)
 
 Website institucional desenvolvido para promover a divulgação científica do Projeto O₃ MOVER, apresentando seus objetivos, atividades, pesquisadores, bolsistas, instituições participantes, produções científicas e soluções tecnológicas.
 
@@ -184,6 +185,15 @@ O projeto busca aproximar a pesquisa científica da sociedade por meio de uma pl
 - Otimização de desempenho e carregamento;
 - Configuração de SEO e indexação em mecanismos de busca;
 - Versionamento, hospedagem e manutenção da plataforma.
+
+`HTML · CSS · JavaScript · Git · GitHub · Hostinger · SEO`
+
+🟢 **Status:** Publicado e em constante evolução.
+
+🔗 **[Acesse o website oficial](https://projetoozoniomover.org/)**
+
+---
+
 
 `HTML · CSS · JavaScript · Git · GitHub · Hostinger · SEO`
 
